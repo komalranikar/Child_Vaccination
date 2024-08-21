@@ -10,8 +10,8 @@ The **Child Vaccination Management System** is a comprehensive console-based app
 - **User Registration:** New users can create an account by registering with a unique username and password. This ensures that each parent has a personalized and secure space to manage their child's vaccination information.
 - **User Login:** Existing users can log in to access their dashboard using their registered username and password. The login system ensures that sensitive information is kept secure.
   
-![Screenshot](1.png)
-![Screenshot](2.png)
+  ![Screenshot](1.png)
+  ![Screenshot](2.png)
 
 ### 2. Vaccination Scheduling and Management
 - **Schedule Vaccination:** Parents can easily schedule a vaccination appointment by entering the child's name, the vaccine name, and the scheduled date. This feature allows for accurate tracking of vaccination appointments.
@@ -34,7 +34,7 @@ The **Child Vaccination Management System** is a comprehensive console-based app
 - **Easy Navigation:** The application features a simple and intuitive console-based interface, making it accessible to users with varying levels of technical proficiency.
 - **Clear Instructions:** Each step in the process is accompanied by clear instructions, ensuring that users can easily perform tasks without confusion.
  
- ![Screenshot](5.png)
+  ![Screenshot](5.png)
   ![Screenshot](6.png)
 
 ## How to Use
