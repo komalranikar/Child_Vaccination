@@ -9,6 +9,9 @@ The **Child Vaccination Management System** is a comprehensive console-based app
 ### 1. User Registration and Authentication
 - **User Registration:** New users can create an account by registering with a unique username and password. This ensures that each parent has a personalized and secure space to manage their child's vaccination information.
 - **User Login:** Existing users can log in to access their dashboard using their registered username and password. The login system ensures that sensitive information is kept secure.
+  
+![Screenshot](1.png)
+![Screenshot](2.png)
 
 ### 2. Vaccination Scheduling and Management
 - **Schedule Vaccination:** Parents can easily schedule a vaccination appointment by entering the child's name, the vaccine name, and the scheduled date. This feature allows for accurate tracking of vaccination appointments.
@@ -17,8 +20,12 @@ The **Child Vaccination Management System** is a comprehensive console-based app
 - **Delete Vaccination Record:** In cases where a vaccination record is no longer relevant or needs to be removed, users have the option to delete specific records from the system.
 - **Search Vaccination Record:** To quickly find a specific vaccination record, users can search by the child's name, making it easy to access relevant information without scrolling through all records.
 
+  ![Screenshot](3.png)
+
 ### 3. Vaccination Reminders
 - **View Reminders:** The system provides reminders for upcoming vaccinations by showing how many days are left until the scheduled date. This feature ensures that parents never miss an important vaccination.
+
+  ![Screenshot](4.png)
 
 ### 4. Account Management
 - **Change Password:** Users can enhance the security of their accounts by changing their password directly from the dashboard. This ensures that their information remains secure over time.
@@ -26,6 +33,9 @@ The **Child Vaccination Management System** is a comprehensive console-based app
 ### 5. User-Friendly Console Interface
 - **Easy Navigation:** The application features a simple and intuitive console-based interface, making it accessible to users with varying levels of technical proficiency.
 - **Clear Instructions:** Each step in the process is accompanied by clear instructions, ensuring that users can easily perform tasks without confusion.
+ 
+ ![Screenshot](5.png)
+  ![Screenshot](6.png)
 
 ## How to Use
 
@@ -48,16 +58,4 @@ The **Child Vaccination Management System** is a comprehensive console-based app
 
 6. **Logout:**
    - Once done, you can safely log out of the system.
-
-## System Requirements
-
-- **Python 3.x:** The application is built using Python and requires Python 3.x to run.
-- **Operating System:** The application can run on any operating system that supports Python, including Windows, macOS, and Linux.
-
-
-## Future Enhancements
-
-- **Multi-language Support:** Adding support for multiple languages to cater to non-English speaking users.
-- **Database Integration:** Implementing a database to store vaccination records persistently.
-- **Graphical User Interface (GUI):** Developing a more visually appealing and user-friendly interface using frameworks like Tkinter or PyQt.
 
